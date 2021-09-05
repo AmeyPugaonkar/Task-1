@@ -1,0 +1,58 @@
+#box{
+    width: 350px;
+    height: 350px;
+    margin-left:40%;
+    margin-top: 10%;
+    background-color: rgba(247,247,247,255);
+    text-align: center;
+}
+
+#heading{
+    background-color: rgba(67,209,175,255);
+    height: 50px;
+    color: white;
+    font-family: Verdana;
+    
+}
+
+#name,#email,#phone{
+    height: 50px;
+}
+
+#name{
+    margin-top: 7px;
+}
+
+#bigArea{
+     margin-top: 7px;
+     width: 315px;
+     border: 1px solid rgba(229,229,229,255);
+     padding-left: 8px ;
+}
+
+#send{
+     margin-top: 17px;
+     width: 326px;
+     height: 30px;
+     background-color: rgba(67,209,175,255);
+     border: 0px;
+     color: white;
+     font-size: 12px;
+}
+
+.input{
+    margin-top: 7px;
+    width: 315px;
+    height: 30px;
+    border: 1px solid rgba(229,229,229,255);
+    padding-left: 8px ;
+}
+
+#contact{
+    padding-top: 15px;
+    font-size: 17px;
+}
+
+#email ,#phone,#message{
+    margin-top: -3px;
+}
